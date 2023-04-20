@@ -6,5 +6,5 @@ if number > 1000 or number < 0:
 
 endnum = int(((number/2)*10)%10)
 if endnum == 0:
-    print ("True")
-else: print ("False")
+    print ("False")
+else: print ("True")
